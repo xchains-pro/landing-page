@@ -91,25 +91,11 @@ const HomeContent = (props) => {
                     <div className="flex flex-col items-start gap-[10px]">
                       <div className="relative flex flex-row flex-justify-between w-full">
                         <span className="text-heading text-[16px]">
-                          The 1
-                          <sup className="text-heading text-[12.5px] absolute top-[4px]">
-                            st
-                          </sup>
+                          A New Paradigm for
                         </span>
-                        <span className="flex flex-row gap-6 opacity-[0.5] scale-[0.7] badges-mobile">
-                          <a href="https://bnbsmartchain.com/winners-announcement-zero2hero-hackathon/#de-fi" target="_blank">
-                            <Zero2Hero/>
-                          </a>
-                          <a href="https://docs.derion.io/audits" target="_blank">
-                            <HackenVerified/>
-                          </a>
-                        </span>
-                      </div>
+                        </div>
                       <HomeContentHeaderMobile />
-                      <div className="text-heading text-[16px] text-right w-full">
-                        Ever.
-                      </div>
-                    </div>
+                     </div>
                     <span className="text-normal text-xl text-center self-stretch leading-[30px]">
                      A significant leap forward in the quest for seamless blockchain interoperability.
                     </span>
