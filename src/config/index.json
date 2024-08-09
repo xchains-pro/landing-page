@@ -1,0 +1,83 @@
+{
+  "navigation": [
+    {
+      "name": "HOME",
+      "href": "#home",
+      "target": "_self"
+    },
+    {
+      "name": "ABOUT US",
+      "href": "#about",
+      "target": "_self"
+    },
+    {
+      "name": "DOCS",
+      "href": "https://docs.xchains.pro",
+      "target": "_blank"
+    },
+    {
+      "name": "GITHUB",
+      "href": "https://github.com/xchains",
+      "target": "_blank"
+    }
+  ],
+  "innovation": [
+    {
+      "title": "Decentralized Liquidity Management",
+      "content": "This decentralized approach mitigates the risks associated with large, centralized pools, reducing the potential impact of security breaches.",
+      "path": "",
+      "icon": "NoLiquidation"
+    },
+    {
+      "title": "Enhanced Security",
+      "content": "Private liquidity pools (PLPs) minimize the attack surface for potential exploits. PLPs ensure that a breach in one wallet does not compromise the entire network.",
+      "path": "",
+      "icon": "HighResistance"
+    },
+    {
+      "title": "Improved Efficiency and Speed",
+      "content": "By leveraging private liquidity pools, our bridge can facilitate near-instantaneous transactions. This streamlined mechanism significantly reduces transaction times and fees.",
+      "path": "",
+      "icon": "Effcient"
+    },
+    {
+      "title": "User-Friendly Experience",
+      "content": "Our bridge's intuitive interface allows users to easily manage their private liquidity pools. Cross-chain transactions accessible to both novice and experienced users.",
+      "path": "",
+      "icon": "InfiniteLiquidity"
+    },
+    {
+      "title": "Scalability and Flexibility",
+      "content": "The architecture of PLPs is inherently scalable. As the userbase grows, the system can seamlessly accommodate increased transaction volumes without bottlenecks.",
+      "path": "",
+      "icon": "RealYield"
+    }
+  ],
+  "about": {
+    "heading": "XChains is an innovative cross-chain bridge solution represents a significant leap forward in the quest for seamless blockchain interoperability.",
+    "explain": "By harnessing the power of Private Liquidity Pools and Hashed Time Locked Contracts, we offer a more secure, efficient, and user-centric approach to bridging assets across blockchain networks."
+  },
+  "vision": {
+    "text-1": "Our vision is to revolutionize the cross-chain ecosystem by providing a secure, fast, and reliable protocol that empowers seamless interoperability between blockchain networks. .",
+    "text-2": "XChains strives to eliminate the barriers to cross-chain transactions, fostering a more interconnected and efficient decentralized world."
+  },
+  "mission": {
+    "text-1": "We are committed to delivering a next-generation protocol that ensures the highest standards of security and efficiency.",
+    "text-2": "Our mission is to create a trustworthy and robust infrastructure that supports the growing needs of the blockchain community, enabling users to transact with confidence and speed across diverse blockchain ecosystems."
+  },
+  "topic": {
+    "topic-1": "TOPIC 1",
+    "topic-2": "LOREM IPSUM"
+  },
+  "blog": {
+    "blog-detail-1": {
+      "text-1": "Lorem ipsum dolor sit amet consectetur. Maecenas amet commodo pulvinar hendrerit sed proin orci ornare. Blandit nunc in id tellus. Praesent augue pellentesque eu purus mi tellus. In iaculis tempus viverra ut arcu vel. Maecenas vestibulum amet volutpat blandit praesent dictum sed tincidunt cursus. Quis tempus nulla felis magnis pulvinar odio enim aliquam.",
+      "text-2": "Sapien pellentesque id tortor adipiscing velit elementum enim libero aliquet. Viverra dictum sed sed justo nunc fringilla massa ac. Quis vel quis feugiat pulvinar eu sed. Mauris elementum pellentesque in platea sagittis odio rutrum elementum diam. Neque ultrices id neque facilisis vel purus nisl risus. Est ultricies ultrices non scelerisque penatibus est morbi sit ultrices. Nunc enim tincidunt mi sapien id faucibus. Massa eget ultricies felis ornare lectus mattis. Eget nec morbi pellentesque ultricies. Gravida elementum arcu quis venenatis aliquet. Massa vitae est elementum porta rhoncus ut risus tincidunt. Aliquam est tempor pellentesque odio vulputate odio. Adipiscing est quisque consequat pretium tempor blandit tincidunt nec fermentum.",
+      "text-3": "Ut ultrices ornare ultrices urna sit turpis interdum libero. Integer massa luctus faucibus cursus eget. Nam lectus proin commodo mollis. Placerat malesuada scelerisque nulla rhoncus sagittis turpis at. Sed vestibulum aliquam odio fermentum. Ullamcorper rutrum mauris turpis morbi commodo integer. Donec aenean nunc diam parturient mollis pulvinar. Nulla etiam potenti duis nisi condimentum leo scelerisque. At amet tortor sed nibh. Odio cursus habitasse in vitae."
+    },
+    "blog-detail-2": {
+      "text-1": "Lorem ipsum dolor sit amet consectetur. Maecenas amet commodo pulvinar hendrerit sed proin orci ornare. Blandit nunc in id tellus. Praesent augue pellentesque eu purus mi tellus. In iaculis tempus viverra ut arcu vel. Maecenas vestibulum amet volutpat blandit praesent dictum sed tincidunt cursus. Quis tempus nulla felis magnis pulvinar odio enim aliquam.",
+      "text-2": "Ut ultrices ornare ultrices urna sit turpis interdum libero. Integer massa luctus faucibus cursus eget. Nam lectus proin commodo mollis. Placerat malesuada scelerisque nulla rhoncus sagittis turpis at. Sed vestibulum aliquam odio fermentum. Ullamcorper rutrum mauris turpis morbi commodo integer. Donec aenean nunc diam parturient mollis pulvinar. Nulla etiam potenti duis nisi condimentum leo scelerisque. At amet tortor sed nibh. Odio cursus habitasse in vitae."
+    }
+  }
+}
